@@ -5,9 +5,7 @@ description: It is not okay to use Zipwire products for these restricted purpose
 
 # Use Restrictions
 
-*Last updated: March 4, 2021*
-
-Hundreds of thousands of teams use Zipwire products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Zipwire is used (and abused) to further such harm, and to state unequivocally that the products we make at Zipwire are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Zipwire is used (and abused) to further such harm, and to state unequivocally that the products we make at Zipwire are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
 
 ## Restricted purposes
 
