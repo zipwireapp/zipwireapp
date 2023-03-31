@@ -5,26 +5,24 @@ description: All the terms that you agree to when you sign up for a Zipwire prod
 
 # Terms of Service
 
-*Last updated: December 4, 2020*
+From everyone at Zipwire, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-From everyone at Zipwire, thank you for using our products! We build them to help you do your best work. There are millions of people using Zipwire products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Evoq Limited, the company that currently owns and operates Zipwire. Evoq Limited is a company registered in England & Wales. Evoq Limited was founded over 20 years ago by Luke Puplett for his freelancing work decades before creating Zipwire. The Evoq name will be changed in due course.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Evoq Limited. We spun off Highrise HQ, LLC in the past, but it has since rejoined Evoq Limited.
+When we say “Services”, we mean any product created and maintained by Evoq Limited. That includes Zipwire, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “Services”, we mean any product created and maintained by Evoq Limited. That includes Zipwire (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for Zipwire.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Zipwire](https://zipwire.io/about/policies/ownership-bc3), [Zipwire 2](https://2.zipwire-help.com/article/411-account-ownership), [Zipwire Classic](https://classic.zipwire-help.com/article/526-account-ownership), [HEY for Work](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
+We may update these Terms of Service in the future. You can track all changes made since they were forked from Basecamp's open policy documents, on GitHub. Initially these changes will be large and formative of the policies for Zipwire as they differ from Basecamp's originals. Once these initial sweeping changes are made and things have settled down, whenever we make a significant change to our policies, we will also announce them on our company blog.
 
-We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/zipwire/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://m.signalvnoise.com/).
+When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. These terms do contain a limitation of our liability.
 
-When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
-
-If you violate any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://zipwire.io/about/team), [how we work](https://zipwire.io/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
+If you violate any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about who we are, how we work, and keeping an open door to your feedback.
 
 ## Account Terms  
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication](https://m.signalvnoise.com/zipwire-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
-2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
+1. You are responsible for maintaining the security of your account and any passwords, credentials or secrets that authenticate it. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We are working on two-factor authentication for added security but as of writing we are reliant on the security you have in place with any of our supported identity providers. In some of our Services, we may in future require it without prior notice.
+2. You may not use the Services for any purpose outlined in our Use Restrictions policy.
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
