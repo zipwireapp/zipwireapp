@@ -19,7 +19,7 @@ When you use our Services, now or in the future, you are agreeing to the latest 
 
 If you violate any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about who we are, how we work, and keeping an open door to your feedback.
 
-## Account Terms  
+## Account Terms
 
 1. You are responsible for maintaining the security of your account and any passwords, credentials or secrets that authenticate it. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We are working on two-factor authentication for added security but as of writing we are reliant on the security you have in place with any of our supported identity providers. In some of our Services, we may in future require it without prior notice.
 1. You may not use the Services for any purpose outlined in our Use Restrictions policy.
@@ -37,11 +37,11 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 ## Payment, Refunds, and Plan Changes
 
-1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
-2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
-3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. We process refunds according to our [Fair Refund policy](../refund/index.md).
+1. If you are using a free version or are within the free usage tier or consumption allowance of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data. However, we may in future use data that's necessary to operate planned services and features. We will explicitly seek permission to collect, use and share such data only in the ways you agree to, and any companies you work with agree to, and that are needed only to operate our future Services. We will obide by all regulations we are subject to and provide the means and capabilities for you to obide by regulations that you may be subject to.
+1. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
+1. For Services that offer consumption based billing and have a free allowance, we explain the terms of the allowance within the product. Access to features beyond the allowance will be locked until you activate a paid subscription. Services consumption is measured and metered as you use the product within a billing cycle and you are subsequently billed for that usage. If you do not pay, we will freeze consumption of functionality past the stated allowance and may freeze your account completely until you make payment.
+1. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+1. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
