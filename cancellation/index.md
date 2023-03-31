@@ -1,6 +1,6 @@
 ---
 title: Cancellation policy
-description: Everything you need to know about canceling your Basecamp product account.
+description: Everything you need to know about canceling your Zipwire product account.
 ---
 
 # Cancellation policy
@@ -11,13 +11,13 @@ We want satisfied customers, not hostages. That’s why we make it easy for you 
 
 Account owners can follow these instructions to cancel in-app:
 * HEY: if you’ve paid for HEY, navigate to "Account & Billing" from the Me menu (top-right corner of the app) and select "Cancel your subscription". You can continue using your account until your paid period expires and your account is automatically canceled, or you can close it earlier after your subscription is stopped, from the "Account & Billing" section, selecting "Close your account now". If you haven’t paid for HEY, you can directly close your account from the "Account & Billing" section.
-* [Basecamp 3](https://3.basecamp-help.com/article/156-cancel-your-basecamp-account)
-* [Basecamp 2](https://2.basecamp-help.com/article/243-canceling-and-pausing#cancel): billing liaisons may also cancel Basecamp 2 accounts
-* [Basecamp Classic](https://classic.basecamp-help.com/article/527-cancellation-refund)
+* [Zipwire 3](https://3.zipwire-help.com/article/156-cancel-your-zipwire-account)
+* [Zipwire 2](https://2.zipwire-help.com/article/243-canceling-and-pausing#cancel): billing liaisons may also cancel Zipwire 2 accounts
+* [Zipwire Classic](https://classic.zipwire-help.com/article/527-cancellation-refund)
 * [Highrise](https://support.highrise-help.com/article/297-upgrade-downgrade-or-cancel#cancel)
 * [Backpack](https://support.backpack-help.com/article/280-how-do-i-cancel-my-account)
 * [Campfire](https://support.campfire-help.com/article/146-how-do-i-cancel-my-account)
-* [37Suite](https://suite.basecamp-help.com/article/656-breaking-or-canceling-the-suite)
+* [37Suite](https://suite.zipwire-help.com/article/656-breaking-or-canceling-the-suite)
 
 Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us]({{ site.email_support }}). We will gladly reach out to any current account owners at the email addresses we have on file.
 
@@ -29,7 +29,7 @@ We’ll permanently delete your account data 30 days after cancellation from our
 
 We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us]({{ site.email_support }}) for a [fair refund](../refund/index.md). We’ll treat you right.
 
-## Basecamp-initiated cancellations
+## Zipwire-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
 * For trial accounts:
