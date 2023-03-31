@@ -11,21 +11,18 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Security overview](security/index.md)
 * [Until the End of the Internet](until-the-end-of-the-internet/index.md)
 * [Taxes](taxes/index.md)
-* Account ownership information for [Zipwire 2](https://2.zipwire-help.com/article/411-account-ownership) and [Zipwire 3](ownership-bc3/index.md)
+* Account ownership information for [Zipwire 2](https://2.zipwire-help.com/article/411-account-ownership) and [Zipwire](ownership-bc3/index.md)
 * [Service Level Agreement (SLA) for Zipwire Big](sla/index.md)
 * [How to manage the HEY account of someone who is incapacitated or has died](incapacitated/index.md)
 * [HEY for Work Ownership and Management Policy](ownership-hey/index.md)
 
 ## A Note About the Email Addresses
 
-If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us at support@zipwire.io. Highrise customers can also email support@highrisehq.com and HEY users can reach out to support@hey.com. Your emails all go to our same [friendly Support team](https://zipwire.io/support).
-
-So how come the links don't work in this repository? The short answer is: we made a technical tradeoff. The long answer is, we copy the policies in this repository to our product marketing sites. To make it easier to transfer, we are now using relative links, [this Jekyll plugin](https://github.com/benbalter/jekyll-relative-links) to convert Markdown links to a valid web URL, and some [Liquid](https://shopify.github.io/liquid/) variables.
+If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us at support@zipwire.io. Your emails go to our [friendly Support team](https://zipwire.io/support).
 
 ## Public Contributions Welcome
 
 We welcome our customers—you!—to suggest changes to our policies and to offer feedback on the changes we have planned. Please do chime in on any open pull request, or even file a pull request yourself.
-
 
 ## Steal These Policies
 

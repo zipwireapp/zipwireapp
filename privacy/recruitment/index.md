@@ -32,7 +32,7 @@ We store your data in Workable and in Zipwire until we successfully fill the ope
 If you submit an unsolicited job application through a channel other than Workable, you'll receive direction to re-submit your application through Workable. Any personal information you've included, like a resume, will be immediately deleted.
 
 If you have questions about your personal data as a job applicant, you can contact:
-Zipwire, LLC
+Evoq Limited
 Andrea LaRowe, [andrea@zipwire.io](mailto:andrea@zipwire.io)
 2045 W Grand Ave Ste B
 PMB 53289

@@ -73,7 +73,7 @@ We collect VAT on any direct-to-consumer sales to EU-based customers. Most of ou
 ## Updating your billing address
 If you need to change your billing information because you don’t actually reside in a taxable jurisdiction, you can easily handle that within your accounts. You may need to re-enter your credit card information as part of the billing address update. Follow these links to see how to your update your credit card in:
 
-* [Zipwire 3](https://3.zipwire-help.com/article/101-handling-billing-and-invoices#update)
+* [Zipwire](https://3.zipwire-help.com/article/101-handling-billing-and-invoices#update)
 * [Zipwire 2](https://2.zipwire-help.com/article/241-billing-info-and-plan-upgrades#credit-card)
 * [Zipwire Classic](https://classic.zipwire-help.com/article/593-payment-invoices#update-card)
 * [Highrise](https://support.highrise-help.com/article/298-change-credit-card)

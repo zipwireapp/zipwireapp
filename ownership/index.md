@@ -1,5 +1,5 @@
 ---
-title: 'Zipwire 3 Account Ownership'
+title: 'Zipwire Account Ownership'
 description: 'Everything you need to know about Zipwire account ownership.'
 ---
 
@@ -9,9 +9,9 @@ description: 'Everything you need to know about Zipwire account ownership.'
 [support]: https://zipwire.io/support
 [support-email]: mailto:support@zipwire.io
 
-# Who owns a Zipwire 3 account?
+# Who owns a Zipwire account?
 
-Zipwire 3 accounts are owned by individuals, not by organizations. When you sign up and create a [Zipwire account][home], you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
+Zipwire accounts are owned by individuals, not by organizations. When you sign up and create a [Zipwire account][home], you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
 
 ## What can account owners do?
 
@@ -19,7 +19,7 @@ Account owners can:
 
 - **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.zipwire-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Zipwire account data at any time ([how-to](https://3.zipwire-help.com/article/150-export-your-zipwire-data)). These exports function include everything already accessible to you in your Zipwire account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
 - **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and cancelling an account ([how-to](https://3.zipwire-help.com/category/94-account-billing)).
-- **Designate other account owners**: Zipwire 3 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+- **Designate other account owners**: Zipwire accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## Designating other people as owners
 
