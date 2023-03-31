@@ -22,9 +22,18 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 ## Account Terms  
 
 1. You are responsible for maintaining the security of your account and any passwords, credentials or secrets that authenticate it. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We are working on two-factor authentication for added security but as of writing we are reliant on the security you have in place with any of our supported identity providers. In some of our Services, we may in future require it without prior notice.
-2. You may not use the Services for any purpose outlined in our Use Restrictions policy.
-3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
-4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+1. You may not use the Services for any purpose outlined in our Use Restrictions policy.
+1. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
+1. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+1. You must provide accurate and complete information when registering your account, and you must promptly update this information if it changes.
+1. You may not transfer your account to another person or entity.
+1. You may not use the Services for any illegal activities.
+1. You must not interfere with or disrupt the Services.
+1. You must not use the Services to damage or impair the Company’s reputation or goodwill.
+1. You must not attempt to gain unauthorized access to the Services or its related systems or networks.
+1. You must not use the Services to send spam or bulk unsolicited messages.
+1. You may not resell, lease, or sublicense any of the Services.
+1. You must not use the Services to violate any applicable law or regulation.
 
 ## Payment, Refunds, and Plan Changes
 
