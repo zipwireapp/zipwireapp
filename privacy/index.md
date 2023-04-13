@@ -3,7 +3,7 @@ title: Privacy policy
 description: Our privacy policy hosted on our website so this documents directs readers to its URL.
 ---
 
-# Privacy policy
+# Privacy Policy
 
 Please see our [Privacy Policy](https://zipwire.io/data/privacy) hosted on our website.
 
@@ -11,3 +11,4 @@ The policy is hosted at the zipwire.io domain for technical reasons. Some techno
 
 ## Our Special Recruitment Policy
 
+Looking after customer data isn't all we're responsible for. We also have a duty of care to look after the information that people entrust to us when they apply for a job at Zipwire. Please see our dedicated [Recruitment Privacy Policy](../privacy/recruitment/index.md).
