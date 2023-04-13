@@ -96,13 +96,13 @@ We also test all of our features extensively before shipping them. As with any s
 
 ## Services Adaptations and API Terms
 
-We offer Application Program Interfaces ("API"s) for some of our Services (currently Zipwire, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+We offer Application Program Interfaces ("API"s) for some of our Services. Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
 
 1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
 2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity *other than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
 3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
 
-Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Zipwire at https://zipwire.io/extras and for Highrise at https://highrisehq.com/extras/. We are not liable or accountable for any of these third-party integrations.
+We are not liable or accountable for any third-party integrations.
 
 ## Liability
 
@@ -110,6 +110,4 @@ We mention liability throughout these Terms but to put it all in one section:
 
 ***You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to this Terms of Service or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability.***
 
-In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://zipwire.io/about). If you choose to use our Services, thank you for betting on us.
-
-If you have a question about any of the Terms of Service, please [contact our Support team]({{ site.email_support }}).
+In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to use our Services, thank you for betting on us.
