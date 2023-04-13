@@ -5,9 +5,7 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-*Last updated: January 19, 2021*
-
-We build our products* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
+We build Zipwire to give our customers a better way to work. We are proud of that purpose and trust that our customers use Zipwire for appropriate endeavors.
 
 Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](../index.md). When that happens, we investigate using the following guiding principles and process.
 
@@ -15,7 +13,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s us: folks from the Zipwire team. Our internal abuse oversight committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who’s “we”, you ask? It’s just me right now, Zipwire's founder, Luke Puplett. Soon, I hope it'll include representatives from across the company as Zipwire grows. On rare occasions for particularly sensitive situations or if legally required, I may also seek counsel from external experts. I use the term "we" since I speak as the legal business rather than personally, I'm adapting these policies from a larger company's (Basecamp's) open policies, and it saves having to change it all later.
 
 ### Balanced responsibilities
 
@@ -71,6 +69,4 @@ Further, as a small, privately owned independent business that puts our values a
 
 If we terminate an account without notice, the decision is final.
 
-For other cases, we will consider good faith appeals sent to [appeals@zipwire.io](mailto:appeals@zipwire.io) by the account owner within 14 calendar days.
-
-**This process applies to any product created and owned by Evoq Limited. That includes Zipwire (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+For other cases, we will consider good faith appeals sent to [abuse@zipwire.io](mailto:abuse@zipwire.io) by the account owner within 14 calendar days.
