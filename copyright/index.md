@@ -27,7 +27,7 @@ https://www.gov.uk/government/collections/digital-economy-bill-2016
 
 #### Copyright and Rights in Performances (Quotation and Parody) Regulations 2014
 
-This legislation reforms UK copyright rules that enable private copying, parodying and general quotation of copyrighted material to take place legally have come into force.
+This legislation reforms UK copyright rules that enable private copying, parodying and general quotation of copyrighted material to take place legally.
 
 https://www.legislation.gov.uk/ukdsi/2014/9780111116029/contents
 
