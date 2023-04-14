@@ -7,9 +7,35 @@ description: How Zipwire handles copyright infringement claims.
 
 ## Notification of Copyright Infringement Claims
 
-Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Zipwire products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
+Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Zipwire to make or disseminate work that uses the intellectual property of others beyond the bounds of fair use.
 
-Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Evoq Limited) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
+## Copyright and UK Law
+
+The United Kingdom has long had laws that protect original work and intellectual property, and more recent legislation that applies to the Internet era.
+
+#### Copyright, Designs and Patents Act 1988
+
+This act provides the legal framework for protecting copyright works in the UK. It outlines the rights that creators have to control the use of their works and to seek redress when their rights are infringed.
+
+https://www.gov.uk/government/publications/copyright-acts-and-related-laws
+
+#### Digital Economy Act 2017
+
+The act addresses policy issues related to electronic communications infrastructure and services, and updates the conditions for and sentencing of criminal copyright infringement.
+
+https://www.gov.uk/government/collections/digital-economy-bill-2016
+
+#### Copyright and Rights in Performances (Quotation and Parody) Regulations 2014
+
+This legislation reforms UK copyright rules that enable private copying, parodying and general quotation of copyrighted material to take place legally have come into force.
+
+https://www.legislation.gov.uk/ukdsi/2014/9780111116029/contents
+
+Additionally, the World Intellectual Property Organization (WIPO) is a useful resource at [wipo.int](https://wipo.int).
+
+### Are you a copyright owner?
+
+You have the right to notify us if you believe that an account user has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 
 - A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 - Identification of the copyrighted work(s) claimed to have been infringed. If there are multiple, please share a representative list of those works.
@@ -18,9 +44,9 @@ Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C.
 - A statement that you, in good faith, believe that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 - A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-## Digital Millennium Copyright Act (“DCMA”) Counter-notifications
+## Objections
 
-On the flip-side, if you believe your material has been removed in error, you can file a written counter-notification. Please include the following information:
+On the flip-side, if you believe your material has been removed in error, you can counter the action with a written objection. Please include the following information:
 
 - A physical or electronic signature, or the signature of the person authorized to act on your behalf.
 - A description of the material that was removed.
@@ -32,13 +58,6 @@ On the flip-side, if you believe your material has been removed in error, you ca
 
 ## Where to Send Notices
 
-You can notify us of either copyright infringement claims or DCMA counter-notifications through either of the following channels:
+You can notify us of either copyright infringement claims or objections through either of the following channels:
 
-**By email**: [report@zipwire.io](mailto:report@zipwire.io)
-
-**By mail**: Evoq Limited
-2045 W Grand Ave Ste B, PMB 53289
-ATTN: David H. Hansson
-Chicago, IL 60612 USA
-
-**This policy and process applies to any product created and owned by Evoq Limited. That includes Zipwire (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+**By email**: [data@zipwire.io](mailto:data@zipwire.io)
