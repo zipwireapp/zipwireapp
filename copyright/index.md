@@ -53,8 +53,8 @@ On the flip-side, if you believe your material has been removed in error, you ca
 - A description of where the material appeared in Zipwire products prior to their removal.
 - Your name and contact information so that we can get back to you. Email address is preferred but a telephone number or mailing address works too.
 - A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification.
-- A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, in the Northern District of Illinois (where Zipwire is located).
-- A statement that you will accept service of process from the person who filed the original DMCA notice or an agent of that person. (In other words, you’ve designated that person to receive documents on your behalf.)
+- A statement that you consent to the application of the UK law in dealing with the matter.
+- A statement that you will accept service of process from the person who filed the original notice or an agent of that person. (In other words, you’ve designated that person to receive documents on your behalf.)
 
 ## Where to Send Notices
 
