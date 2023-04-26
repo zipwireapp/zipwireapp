@@ -21,13 +21,15 @@ You should login to Zipwire and choose to act as a lone sender, i.e. not as an a
 
 Administrators can remove other accounts from the workplace administrators team.
 
-If you are not able to get an existing administrator to add you, please [email support](mailto:support@zipwire.io) as we will need to verify your identity and authority. To do this, we'll need to see proof of control within the corporate entity, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership or controlling rights of the business.
+If you are not able to get an existing administrator to add you, please [email support](mailto:support@zipwire.io) as we will need to verify your identity and authority. To do this, we'll need to see proof of control within the corporate entity, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership or controlling rights of the business d) if the workplace has an active subscription, proof of control of the payment mechanism will be needed.
 
 We will perform checks using public records and contact other significant owners to verify your representation. If we suspect fraud or an unlawful attempt to gain control, we will immediately contact the relevant authorities.
 
 We'll attempt to contact all current administrators and simply ask them to add you. This is so that they'll all aware of your request and because it's quicker and easier than a Zipwire engineer modifying data to forcibly add you. It also allows current administrators to raise objections and thwart attackers.
 
 If after 7 working days the administrators are unresponsive despite repeated contact attempts, we will add your account to the workplace administrator team manually. If there are more than one current administrators and they all object, then your request will be refused. Bear in mind that any current administrator can remove any other, so existing admins can immediately undo our changes.
+
+An existing administrator can be forcibly removed if they do not respond to our requests, or if they are the sole administrator and have demonstrably less control of the business that the requestor.
 
 ## How do workplaces and subscriptions relate?
 
