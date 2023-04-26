@@ -21,7 +21,7 @@ You should login to Zipwire and choose to act as a lone sender, i.e. not as an a
 
 Administrators can remove other accounts from the workplace administrators team.
 
-If you are able to get an existing administrator to add you, then [email support](mailto:support@zipwire.io) as we will need to verify your seniority at the workplace. We will need to see proof of control within the workplace, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership from a third party.
+If you are not able to get an existing administrator to add you, then [email support](mailto:support@zipwire.io) as we will need to verify your seniority at the workplace. We will need to see proof of control within the workplace, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership from a third party.
 
 We will perform checks using public records and contact other significant owners to verify your representation. If we suspect fraud or an unlawful attempt to gain control, we will immediately contact the relevant authorities.
 
@@ -31,7 +31,7 @@ If after 7 working days the administrators are unresponsive despite repeated con
 
 ## How do workplaces and subscriptions relate?
 
-// TODO
+A paid subscription is linked to a workplace. Subscriptions are created by workplace administrator accounts. Any administrator can create and manage subscriptions. To cancel a subscription, see [cancellation policy](../cancellation/index.md). A subscription will continue to be active even when there are no active administrators. Subscriptions are billed by services actually consumed, so your subscription will incur charges which must be paid, so long as timesheets are being sent within a billing period.
 
 ## What if I have another question about ownership?
 
