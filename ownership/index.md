@@ -17,17 +17,17 @@ Administrators can choose to delete data they have access to, including workplac
 
 Most of the time Zipwire is setup by someone who works for an organisation but does not control it. Normally, this isn't a problem as employees and people working at an organisation generally have the authority and trust to make choices, produce outputs and act in the best interests of their employer.
 
-You should login to Zipwire and choose to act as a lone sender, i.e. not as an approver or processor since these options can lead you to setup another workplace, which is not what you want. Once you have a Zipwire account look at your account settings and note the email address. Then ask a person who is currently an administrator of the Zipwire workplace to add your email address as an administrator of the workplace. Log out and log back in again and you should have administrator access, too.
+You should login to Zipwire and choose to act as a lone sender, i.e. not as an approver or processor since these options can lead you to setup another workplace, which is not what you want. Once you have a Zipwire account look at your account settings and note the email address. Then ask a person who is currently an administrator of the workplace to add your email address as an administrator. Log out and log back in again and you should have administrator access, too.
 
 Administrators can remove other accounts from the workplace administrators team.
 
-If you are not able to get an existing administrator to add you, then [email support](mailto:support@zipwire.io) as we will need to verify your seniority at the workplace. We will need to see proof of control within the workplace, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership from a third party.
+If you are not able to get an existing administrator to add you, please [email support](mailto:support@zipwire.io) as we will need to verify your identity and authority. To do this, we'll need to see proof of control within the corporate entity, including a) an email from one of the verified domains for the workplace, preferably from the mailbox of an existing administrator in order to prove control b) the contact details of all significant owners of the business, including yourself c) proof of significant ownership or controlling rights of the business.
 
 We will perform checks using public records and contact other significant owners to verify your representation. If we suspect fraud or an unlawful attempt to gain control, we will immediately contact the relevant authorities.
 
-We will attempt to contact all current administrators and simply ask them to add you. This is so that current administrators are aware of the change that will be made and because it is simply easier than a Zipwire engineer modifying data to forcibly add you. It also allows current administrators to raise objections and thwart attackers.
+We'll attempt to contact all current administrators and simply ask them to add you. This is so that they'll all aware of your request and because it's quicker and easier than a Zipwire engineer modifying data to forcibly add you. It also allows current administrators to raise objections and thwart attackers.
 
-If after 7 working days the administrators are unresponsive despite repeated contact attempts, we will add your account as an administrator. If all current administrators object, then your request will be refused. Bear in mind that any current administrator can remove any other and forcibly adding your account can be immediately undone by a current administrator.
+If after 7 working days the administrators are unresponsive despite repeated contact attempts, we will add your account to the workplace administrator team manually. If there are more than one current administrators and they all object, then your request will be refused. Bear in mind that any current administrator can remove any other, so existing admins can immediately undo our changes.
 
 ## How do workplaces and subscriptions relate?
 
