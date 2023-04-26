@@ -1,29 +1,18 @@
 ---
-title: 'Zipwire Big Service Level Agreement (SLA)'
-description: 'Read the service level agreement for Zipwire Big accounts.'
+title: 'Zipwire Service Level Agreement (SLA)'
+description: 'Read the service level agreement for Zipwire accounts.'
 ---
 
-[support]: https://zipwire.io/support
-[uptime]: https://zipwire.io/3/uptime
-[status]: https://status.zipwire.io
+## Our commitment to keeping Zipwire available
 
-# Zipwire Big SLA
-Thousands of companies rely on Zipwire. Just like you, Zipwire is our company's lifeline. It’s where we make decisions, share designs, debate ideas, broadcast companywide announcements, and keep up to date on what everyone's working on. That's why we guarantee 99.99% monthly uptime to teams on Zipwire Big.
+While we give no specific gaurantees about the availability of Zipwire, our engineers are proud of their work and committed to making sure Zipwire is almost never offline. This is much easier to achieve than in decades past because we build Zipwire on cloud technologies that have their own gaurantees on uptime and redundancy. Rest assured, we make great choices when selecting and configuring the cloud infrastructure that underpins our software to ensure it is secure, highly-available and resistant to data loss in the event of an accident or disaster.
 
-## What is “uptime”?
-“Uptime” refers to the period of time when Zipwire is up and running.
-
-## How do I find Zipwire’s uptime?
-We make our [uptime public here][uptime].
-
-## What happens if it’s below 99.99%?
-Our Ops team is working so that we won’t find ourselves in that situation. But stuff happens, so if our uptime drops below 99.99%, we will provide an automatic credit under our SLA to our Big customers on their next billing cycle. For any given day where an outage exceeds 5 minutes, we’ll credit your account 10x for a full hour that is equal to the hourly rate you pay us for use of Zipwire.  You can always check up on us [here][uptime]. That is the full limit of our liability under this SLA. Now you can get back to your work with the peace of mind knowing that we’ve got you covered.
-
-## How do we track that uptime?
-We track uptime by measuring the server side error rate along with using server monitoring software to look at results from ping tests, web server tests, TCP port tests, and website tests. Any changes to Zipwire's uptime are immediately shown on our [Status site][status].
+Data is stored in systems that are replicated in a manner that makes them resilient to catastrophe. We place our trust in Google Cloud and you place your trust in us. That said, no system is perfect and we cannot gaurantee the safety of data beyond unprecedented disaster across a wide geography. At present, your data is stored on physical structures, encrypted, within the United States of America, on Google's equipment. Please see our [privacy policy](https://zipwire.io/data/privacy) which discusses our treatment of your data.
 
 ## Will this change in the future?
+
 Zipwire may update this SLA once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site.
 
 ## What if I have questions about this SLA?
+
 Please get in touch with [our friendly support team][support] and we’ll be happy to answer them!
