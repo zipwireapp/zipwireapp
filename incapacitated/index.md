@@ -1,11 +1,37 @@
 ---
-title: 'How to manage the Zipwire account of someone who is incapacitated or has died'
-description: 'For Zipwire accounts'
+title: 'Incapacitated account holder'
+description: 'What happens to a Zipwire account when the account holder becomes incapacitated or passes away.'
 ---
 
-# How to manage the Zipwire account of someone who is incapacitated or has died
+# Incapacitated account holder
 
-Managing administrative aspects is often the last thing you may want to do under these circumstances. We’ve tried to set up a process that makes managing this situation as smooth as possible while also honoring the privacy and security obligations we have to our customers.
+## Overview
+
+This policy outlines how we handle Zipwire accounts when the account holder becomes incapacitated or passes away. We understand this is a sensitive situation and we aim to handle it with care and respect.
+
+## Process
+
+1. When we receive a request regarding an incapacitated account holder, we will:
+   * Verify the identity of the requester
+   * Review any provided documentation
+   * Consider the best interests of all parties involved
+
+2. We may require documentation such as:
+   * Power of attorney
+   * Death certificate
+   * Court orders
+   * Other legal documentation
+
+3. We will work with the appropriate parties to:
+   * Preserve important data
+   * Transfer account access if appropriate
+   * Close the account if requested
+
+## Contact us
+
+If you need to report an incapacitated account holder, please email us at [support@zipwire.io](mailto:support@zipwire.io).
+
+Managing administrative aspects is often the last thing you may want to do under these circumstances. We've tried to set up a process that makes managing this situation as smooth as possible while also honoring the privacy and security obligations we have to our customers.
 
 People may be using Zipwire in the following ways.
 
@@ -46,7 +72,7 @@ The following process may take several days to weeks as we go through verificati
 
 If we are able to successfully verify the information you have shared, we'll email the account in question with a notification and option to dispute the request.
 
-After 72 hours, if we do not receive a dispute response, we’ll be able to help with the following:
+After a reasonable waiting period to allow for any dispute response, we'll be able to help with the following:
 
 * Cancelling the account, which will lead to deleting the account data. Please refer to our [Cancellation policy](../cancellation/index.md) for more information.
 * Providing an export of the account contents.
@@ -55,20 +81,23 @@ We delete all information shared with us for verification purposes immediately a
 
 ## For All Other Accounts
 
-The following process may take several days to weeks as we go through verification steps. To get started, please email [support@zipwire.io](mailto:support@zipwire.io) with:
+The verification process may take some time as we carefully review all documentation. To get started, please email [support@zipwire.io](mailto:support@zipwire.io) with:
 
-* Legal documents proving your designated role in managing this person’s affairs. Acceptable documents include: a copy of a fully-executed Power of Attorney; or a copy of an official Death Certificate *and* one of the following: a) a copy of a will or trust document naming you as executor or beneficiary; b) a marriage certificate if you are a surviving spouse; c) a birth certificate if you are their parent or proof of guardianship for legal guardians.
+* Legal documents proving your designated role in managing this person's affairs. Acceptable documents include: a copy of a fully-executed Power of Attorney; or a copy of an official Death Certificate *and* one of the following: a) a copy of a will or trust document naming you as executor or beneficiary; b) a marriage certificate if you are a surviving spouse; c) a birth certificate if you are their parent or proof of guardianship for legal guardians.
 * The Zipwire email address of your loved one.
 * A few pieces of information to help with the verification process:
 
-  - If the name on the legal documents do not match the name we have on record for the account owner, we’ll need some sort of proof that the document is for the same individual.
-  - A photograph showing the following things in the same picture: 1. a photo selfie showing your face; 2. a picture of your Government Issued ID (Passport, Drivers License, etc...) next to your face; 3. a piece of paper with "Verification for Zipwire" and today’s date.
-  - The region and postal code likely used for the person’s billing address.
-  - The last four numbers of the credit card likely used to pay for the person’s account.
+  - If the name on the legal documents do not match the name we have on record for the account owner, we'll need some sort of proof that the document is for the same individual.
+  - A photograph showing the following things in the same picture: 1. a photo selfie showing your face; 2. a picture of your Government Issued ID (Passport, Drivers License, etc...) next to your face; 3. a piece of paper with "Verification for Zipwire" and today's date.
+  - The region and postal code likely used for the person's billing address.
+  - The last four numbers of the credit card likely used to pay for the person's account.
 
 If we are able to successfully verify the information you have shared, we'll email the account in question with a notification and option to dispute the request.
 
-After 72 hours, if we do not receive a dispute response, we’ll be able to help with cancelling the account, which will lead to deleting the account data in accordance with our data policies. Please refer to our [Cancellation policy](../cancellation/index.md) for more information.
+After a reasonable waiting period to allow for any dispute response, we'll be able to help with the following:
+
+* Cancelling the account, which will lead to deleting the account data. Please refer to our [Cancellation policy](../cancellation/index.md) for more information.
+* Providing an export of the account contents.
 
 We delete all information shared with us for verification purposes immediately after we finish the verification process.
 

@@ -7,11 +7,11 @@ description: All the terms that you agree to when you sign up for a Zipwire prod
 
 From everyone at Zipwire, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Evoq Limited, the company that currently owns and operates Zipwire. Evoq Limited is a company registered in England & Wales. Evoq Limited was founded over 20 years ago by Luke Puplett for his freelancing work decades before creating Zipwire. The Evoq name will be changed in due course.
+When we say "Company", "we", "our", or "us" in this document, we are referring to Evoq Limited, the company that currently owns and operates Zipwire. Evoq Limited is a company registered in England & Wales. Evoq Limited was founded over 20 years ago by Luke Puplett for his freelancing work decades before creating Zipwire. The Evoq name will be changed in due course.
 
-When we say “Services”, we mean any product created and maintained by Evoq Limited. That includes Zipwire, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say "Services", we mean any product created and maintained by Evoq Limited. That includes Zipwire, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for Zipwire.
+When we say "You" or "your", we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for Zipwire.
 
 We may update these Terms of Service in the future. You can track all changes made since they were forked from Basecamp's open policy documents, on GitHub. Initially these changes will be large and formative of the policies for Zipwire as they differ from Basecamp's originals. Once these initial sweeping changes are made and things have settled down, whenever we make a significant change to our policies, we will also announce them on our company blog.
 
@@ -21,15 +21,18 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and any passwords, credentials or secrets that authenticate it. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We are working on two-factor authentication for added security but as of writing we are reliant on the security you have in place with any of our supported identity providers. In some of our Services, we may in future require it without prior notice.
+1. You are responsible for maintaining the security of your account and any passwords, credentials or secrets that authenticate it. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We provide multiple authentication options:
+   - Sign in with Ethereum (SIWE) which provides strong cryptographic authentication
+   - Optional two-factor authentication (2FA) for additional security
+   - We recommend enabling 2FA for enhanced account protection
 1. You may not use the Services for any purpose outlined in our Use Restrictions policy.
 1. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
-1. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+1. You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
 1. You must provide accurate and complete information when registering your account, and you must promptly update this information if it changes.
 1. You may not transfer your account to another person or entity.
 1. You may not use the Services for any illegal activities.
 1. You must not interfere with or disrupt the Services.
-1. You must not use the Services to damage or impair the Company’s reputation or goodwill.
+1. You must not use the Services to damage or impair the Company's reputation or goodwill.
 1. You must not attempt to gain unauthorized access to the Services or its related systems or networks.
 1. You must not use the Services to send spam or bulk unsolicited messages.
 1. You may not resell, lease, or sublicense any of the Services.
@@ -69,15 +72,50 @@ If you violate any of the terms, we may terminate your account. That's a broad s
 
 ## Uptime, Security, and Privacy
 
-1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for our Services but we take the uptime and reliability of our applications as seriously as we take our reputation. At the time of writing we use Google Cloud and design our systems to be resilient to outages. We store all data in ways that minimize the chance of loss from the most likely data-center catastrophes.
+1. Your use of the Services is at your sole risk. We provide these Services on an "as is" and "as available" basis. We do not offer service-level agreements for our Services but we take the uptime and reliability of our applications as seriously as we take our reputation. At the time of writing we use Google Cloud and design our systems to be resilient to outages. We store all data in ways that minimize the chance of loss from the most likely data-center catastrophes.
+
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
+
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. Data is encrypted always; between end user devices and our servers, between our servers, and when at rest on disk. Please refer to our [Privacy Policy](https://zipwire.io/data/privacy) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
+
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Zipwire may process your data as described in our [Privacy Policy](https://zipwire.io/data/privacy) and for no other purpose. We as humans can access your data for the following reasons:
-  - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
-  - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
-  - **To safeguard Zipwire.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
-  - **To the extent required by applicable law.** As a UK company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a UK government authority with a legally binding order. If a non-UK authority approaches Zipwire for assistance, our default stance is to refuse unless the order has been approved by the UK government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Zipwire is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
+   - **To help you with support requests you make.** We'll ask for express consent before accessing your account.
+   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause as much as possible to avoid the errors from reoccurring.
+   - **To safeguard Zipwire.** We'll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+   - **To the extent required by applicable law.** As a UK company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a UK government authority with a legally binding order. If a non-UK authority approaches Zipwire for assistance, our default stance is to refuse unless the order has been approved by the UK government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If Zipwire is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
+
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services as described in our [Privacy Policy](https://zipwire.io/data/privacy).
+
+## Document Security and Data Sovereignty
+
+1. When you upload documents to our Services, they are protected by multiple layers of encryption:
+   - All data is encrypted at rest on our cloud provider's storage
+   - Documents are additionally encrypted with a user-specific key
+   - This double encryption ensures that even our data engineers cannot access the contents of your documents
+
+2. You maintain control over where your encrypted documents are stored:
+   - You must select a geographic location for your document storage
+   - This choice helps ensure your data is stored in a jurisdiction you trust
+   - We will only process and store your documents in your chosen location
+
+3. For identity verification and document collection:
+   - We integrate with authorized Identity Service Providers (IDSPs)
+   - All identity verification processes comply with UK government standards
+   - Document verification and storage follows industry best practices for security
+
+## Sign in with Ethereum (SIWE)
+
+1. When using Sign in with Ethereum:
+   - We never have access to your private keys
+   - Authentication is performed through cryptographic signatures
+   - Only your public wallet address is linked to your account
+   - You maintain full control of your wallet and private keys
+
+2. The SIWE process:
+   - You connect your wallet through your browser
+   - You sign a message to authenticate
+   - We verify the signature and link your public address
+   - No private key information is ever transmitted to our servers
 
 ## Copyright and Content Ownership
 

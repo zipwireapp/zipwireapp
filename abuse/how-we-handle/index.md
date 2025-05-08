@@ -1,9 +1,39 @@
 ---
-title: How we handle abusive usage
-description: Guiding principles and process for investigating abuse reports
+title: 'How we handle abuse'
+description: 'How we handle abuse reports and what you can expect from us.'
 ---
 
-# How we handle abusive usage
+# How we handle abuse
+
+## What happens when you report abuse
+
+When you report abuse to us, here's what happens:
+
+1. We'll review your report and determine if it violates our [Use Restrictions policy](../abuse/index.md).
+2. If we find a violation, we'll take appropriate action, which may include:
+   * Warning the user
+   * Suspending their account
+   * Terminating their account
+3. We'll notify you of the outcome of our investigation.
+
+## What you can expect from us
+
+* We take all abuse reports seriously
+* We investigate each report thoroughly
+* We'll keep you informed about the status of your report
+* We'll take appropriate action when we find violations
+* We'll protect your privacy and the privacy of those involved
+
+## What we expect from you
+
+* Provide as much detail as possible about the abuse
+* Include any relevant evidence (screenshots, emails, etc.)
+* Be patient while we investigate
+* Keep the information confidential
+
+## Contact us
+
+If you need to report abuse, please email us at [abuse@zipwire.io](mailto:abuse@zipwire.io).
 
 We build Zipwire to give our customers a better way to work. We are proud of that purpose and trust that our customers use Zipwire for appropriate endeavors.
 
@@ -13,7 +43,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s just me right now, Zipwire's founder, Luke Puplett. Soon, I hope it'll include representatives from across the company as Zipwire grows. On rare occasions for particularly sensitive situations or if legally required, I may also seek counsel from external experts. I use the term "we" since I speak as the legal business rather than personally, I'm adapting these policies from a larger company's (Basecamp's) open policies, and it saves having to change it all later.
+Who's "we", you ask? It's just me right now, Zipwire's founder, Luke Puplett. Soon, I hope it'll include representatives from across the company as Zipwire grows. On rare occasions for particularly sensitive situations or if legally required, I may also seek counsel from external experts. I use the term "we" since I speak as the legal business rather than personally, I'm adapting these policies from a larger company's (Basecamp's) open policies, and it saves having to change it all later.
 
 ### Balanced responsibilities
 
@@ -37,7 +67,7 @@ From our experience, we learn about potential abuse because:
 
 - Someone alerts us. We give [abuse reports](../index.md) our full care and attention. Our Support team also responds to every question or comment that comes in. If we notice anything in those emails that points to a violation, we will look into it.
 - We notice an anomaly in our business operations monitoring. We monitor a range of things about our products, like signup volume and error rates of web requests. If we see something weird with those numbers, we get to the bottom of it.
-- We stumble upon public web content that links an individual or organization to a Zipwire product. We aren’t scouring the Internet looking for those links, but if we do come across any, we check them out.
+- We stumble upon public web content that links an individual or organization to a Zipwire product. We aren't scouring the Internet looking for those links, but if we do come across any, we check them out.
 
 This list is not exhaustive; there are always edge cases. We will update the list if we find regular new avenues.
 
@@ -46,7 +76,7 @@ This list is not exhaustive; there are always edge cases. We will update the lis
 We focus on the evidence:
 
 - Language and imagery used by users on the account
-- Evidence of account users’ power and/or ability to act on spoken claims
+- Evidence of account users' power and/or ability to act on spoken claims
 - Publicly available information about account users
 
 We strive to balance privacy and safety for all those involved:
@@ -61,7 +91,7 @@ While some violations are flatly obvious, others are subjective, nuanced, and di
 
 We will terminate an account without advance notice if there is evidence it is being used for a restricted purpose that has, is, or will cause severe harm. If applicable, we will also report the incident to the appropriate authorities.
 
-For other cases, we’ll take a case-by-case approach to clear things up.
+For other cases, we'll take a case-by-case approach to clear things up.
 
 Further, as a small, privately owned independent business that puts our values and conscience ahead of growth at all costs, we reserve the right to deny service to anyone we ultimately feel uncomfortable doing business with.
 

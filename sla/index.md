@@ -11,8 +11,8 @@ Data is stored in systems that are replicated in a manner that makes them resili
 
 ## Will this change in the future?
 
-Zipwire may update this SLA once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site.
+Zipwire may update this SLA once in a blue moon — we'll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site.
 
 ## What if I have questions about this SLA?
 
-Please get in touch with [our friendly support team][support] and we’ll be happy to answer them!
+Please get in touch with [our friendly support team][support] and we'll be happy to answer them!
